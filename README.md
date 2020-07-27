@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+nosql love-tableau fan-sql master-python intermediate-certification enthusiast
+
+
 <!--
 **engavik/engavik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
