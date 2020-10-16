@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-nosql-love tableau-fan sql-master python-intermediate certification-enthusiast
+nosql-love tableau-fan sql-master python-spark-linux-scala certification-enthusiast
 
 
 <!--
